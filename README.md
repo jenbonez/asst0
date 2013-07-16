@@ -1,4 +1,4 @@
-asst0
+Jen Sullivan, Assignment 0
 =====
 
-Mad homeworkz, yo
+Mad homeworkz, yo - I basically parsed the mothafucka'
